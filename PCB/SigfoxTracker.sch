@@ -6534,47 +6534,47 @@ by exp-lbrs.ulp</description>
 <attribute name="NAME" x="155.956" y="113.919" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="161.036" y="121.539" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R31" gate="G$1" x="198.12" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="199.6186" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R31" gate="G$1" x="195.58" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="194.0814" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="SIGFOX_CPU" gate="G$1" x="198.12" y="91.44" smashed="yes">
-<attribute name="NAME" x="201.676" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="203.835" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="SIGFOX_CPU" gate="G$1" x="195.58" y="101.6" smashed="yes">
+<attribute name="NAME" x="199.136" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="201.295" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R8" gate="G$1" x="208.28" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="209.7786" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R8" gate="G$1" x="205.74" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="204.2414" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="SIGFOX_RADIO" gate="G$1" x="208.28" y="91.44" smashed="yes">
-<attribute name="NAME" x="211.836" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="213.995" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="SIGFOX_RADIO" gate="G$1" x="205.74" y="101.6" smashed="yes">
+<attribute name="NAME" x="209.296" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="211.455" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R9" gate="G$1" x="218.44" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="219.9386" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R9" gate="G$1" x="215.9" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="214.4014" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="SIGFOX_TX" gate="G$1" x="218.44" y="91.44" smashed="yes">
-<attribute name="NAME" x="221.996" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="224.155" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="SIGFOX_TX" gate="G$1" x="215.9" y="101.6" smashed="yes">
+<attribute name="NAME" x="219.456" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="221.615" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R10" gate="G$1" x="228.6" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="230.0986" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R10" gate="G$1" x="226.06" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="224.5614" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="SIGFOX_RX" gate="G$1" x="228.6" y="91.44" smashed="yes">
-<attribute name="NAME" x="232.156" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="234.315" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="SIGFOX_RX" gate="G$1" x="226.06" y="101.6" smashed="yes">
+<attribute name="NAME" x="229.616" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="231.775" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R11" gate="G$1" x="238.76" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="240.2586" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R11" gate="G$1" x="236.22" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="234.7214" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="GPS_TICK" gate="G$1" x="238.76" y="91.44" smashed="yes">
-<attribute name="NAME" x="242.316" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="244.475" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="GPS_TICK" gate="G$1" x="236.22" y="101.6" smashed="yes">
+<attribute name="NAME" x="239.776" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="241.935" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R12" gate="G$1" x="248.92" y="101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="250.4186" y="102.87" size="1.778" layer="95" rot="R270"/>
+<instance part="R12" gate="G$1" x="246.38" y="111.76" smashed="yes" rot="R270">
+<attribute name="NAME" x="244.8814" y="110.49" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="ACT" gate="G$1" x="248.92" y="91.44" smashed="yes">
-<attribute name="NAME" x="252.476" y="86.868" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="254.635" y="86.868" size="1.778" layer="96" rot="R90"/>
+<instance part="ACT" gate="G$1" x="246.38" y="101.6" smashed="yes">
+<attribute name="NAME" x="249.936" y="97.028" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="252.095" y="97.028" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="PROG" gate="A" x="289.56" y="149.86" smashed="yes">
 <attribute name="NAME" x="283.21" y="160.655" size="1.778" layer="95"/>
@@ -6592,12 +6592,12 @@ by exp-lbrs.ulp</description>
 <instance part="GND39" gate="1" x="281.94" y="139.7" smashed="yes">
 <attribute name="VALUE" x="279.4" y="137.16" size="1.778" layer="96"/>
 </instance>
-<instance part="ENABLE_LED_JUMPER" gate="G$1" x="182.88" y="83.82" smashed="yes" rot="R180">
-<attribute name="NAME" x="189.23" y="78.105" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="189.23" y="88.9" size="1.778" layer="96" rot="R180"/>
+<instance part="ENABLE_LED_JUMPER" gate="G$1" x="180.34" y="93.98" smashed="yes" rot="R180">
+<attribute name="NAME" x="186.69" y="88.265" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="186.69" y="99.06" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND13" gate="1" x="193.04" y="78.74" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="195.58" y="76.2" size="1.778" layer="96" rot="MR0"/>
+<instance part="GND13" gate="1" x="190.5" y="88.9" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="193.04" y="86.36" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="JP1" gate="A" x="281.94" y="114.3" smashed="yes">
 <attribute name="NAME" x="275.59" y="127.635" size="1.778" layer="95"/>
@@ -6779,7 +6779,7 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="GND13" gate="1" pin="GND"/>
 <pinref part="ENABLE_LED_JUMPER" gate="G$1" pin="1"/>
-<wire x1="193.04" y1="81.28" x2="185.42" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="91.44" x2="182.88" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="A" pin="2"/>
@@ -6951,8 +6951,8 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="109.22" x2="218.44" y2="106.68" width="0.1524" layer="91"/>
-<label x="218.44" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="215.9" y1="119.38" x2="215.9" y2="116.84" width="0.1524" layer="91"/>
+<label x="215.9" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="SRX_LED" class="0">
@@ -6963,8 +6963,8 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="228.6" y1="109.22" x2="228.6" y2="106.68" width="0.1524" layer="91"/>
-<label x="228.6" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="226.06" y1="119.38" x2="226.06" y2="116.84" width="0.1524" layer="91"/>
+<label x="226.06" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="SCPU_LED" class="0">
@@ -6975,8 +6975,8 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R31" gate="G$1" pin="1"/>
-<wire x1="198.12" y1="109.22" x2="198.12" y2="106.68" width="0.1524" layer="91"/>
-<label x="198.12" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="195.58" y1="119.38" x2="195.58" y2="116.84" width="0.1524" layer="91"/>
+<label x="195.58" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="TX" class="0">
@@ -7105,21 +7105,21 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="SIGFOX_CPU" gate="G$1" pin="A"/>
 <pinref part="R31" gate="G$1" pin="2"/>
-<wire x1="198.12" y1="93.98" x2="198.12" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="104.14" x2="195.58" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="SIGFOX_RADIO" gate="G$1" pin="A"/>
 <pinref part="R8" gate="G$1" pin="2"/>
-<wire x1="208.28" y1="93.98" x2="208.28" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="104.14" x2="205.74" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
 <pinref part="SIGFOX_TX" gate="G$1" pin="A"/>
 <pinref part="R9" gate="G$1" pin="2"/>
-<wire x1="218.44" y1="93.98" x2="218.44" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="215.9" y1="104.14" x2="215.9" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SRADIO_LED" class="0">
@@ -7130,15 +7130,15 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
-<wire x1="208.28" y1="109.22" x2="208.28" y2="106.68" width="0.1524" layer="91"/>
-<label x="208.28" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="205.74" y1="119.38" x2="205.74" y2="116.84" width="0.1524" layer="91"/>
+<label x="205.74" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
 <pinref part="SIGFOX_RX" gate="G$1" pin="A"/>
 <pinref part="R10" gate="G$1" pin="2"/>
-<wire x1="228.6" y1="93.98" x2="228.6" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="104.14" x2="226.06" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GPS_TIMEMARK" class="0">
@@ -7149,8 +7149,8 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
-<wire x1="238.76" y1="109.22" x2="238.76" y2="106.68" width="0.1524" layer="91"/>
-<label x="238.76" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="236.22" y1="119.38" x2="236.22" y2="116.84" width="0.1524" layer="91"/>
+<label x="236.22" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="MCU_ACT" class="0">
@@ -7161,22 +7161,22 @@ by exp-lbrs.ulp</description>
 </segment>
 <segment>
 <pinref part="R12" gate="G$1" pin="1"/>
-<wire x1="248.92" y1="109.22" x2="248.92" y2="106.68" width="0.1524" layer="91"/>
-<label x="248.92" y="109.22" size="0.762" layer="95" rot="R90" xref="yes"/>
+<wire x1="246.38" y1="119.38" x2="246.38" y2="116.84" width="0.1524" layer="91"/>
+<label x="246.38" y="119.38" size="0.762" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="GPS_TICK" gate="G$1" pin="A"/>
 <pinref part="R11" gate="G$1" pin="2"/>
-<wire x1="238.76" y1="93.98" x2="238.76" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="104.14" x2="236.22" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
 <pinref part="ACT" gate="G$1" pin="A"/>
 <pinref part="R12" gate="G$1" pin="2"/>
-<wire x1="248.92" y1="93.98" x2="248.92" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="104.14" x2="246.38" y2="106.68" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="/MCU_RESET" class="0">
@@ -7218,30 +7218,30 @@ by exp-lbrs.ulp</description>
 <net name="/ENABLE_LEDS" class="0">
 <segment>
 <pinref part="SIGFOX_CPU" gate="G$1" pin="C"/>
-<wire x1="198.12" y1="83.82" x2="198.12" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="93.98" x2="195.58" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="SIGFOX_RADIO" gate="G$1" pin="C"/>
-<wire x1="208.28" y1="83.82" x2="208.28" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="198.12" y1="83.82" x2="208.28" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="93.98" x2="205.74" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="93.98" x2="205.74" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="SIGFOX_TX" gate="G$1" pin="C"/>
-<wire x1="218.44" y1="83.82" x2="218.44" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="83.82" x2="218.44" y2="83.82" width="0.1524" layer="91"/>
-<junction x="208.28" y="83.82"/>
+<wire x1="215.9" y1="93.98" x2="215.9" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="93.98" x2="215.9" y2="93.98" width="0.1524" layer="91"/>
+<junction x="205.74" y="93.98"/>
 <pinref part="SIGFOX_RX" gate="G$1" pin="C"/>
-<wire x1="228.6" y1="83.82" x2="228.6" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="218.44" y1="83.82" x2="228.6" y2="83.82" width="0.1524" layer="91"/>
-<junction x="218.44" y="83.82"/>
+<wire x1="226.06" y1="93.98" x2="226.06" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="215.9" y1="93.98" x2="226.06" y2="93.98" width="0.1524" layer="91"/>
+<junction x="215.9" y="93.98"/>
 <pinref part="GPS_TICK" gate="G$1" pin="C"/>
-<wire x1="238.76" y1="83.82" x2="238.76" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="228.6" y1="83.82" x2="238.76" y2="83.82" width="0.1524" layer="91"/>
-<junction x="228.6" y="83.82"/>
+<wire x1="236.22" y1="93.98" x2="236.22" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="93.98" x2="236.22" y2="93.98" width="0.1524" layer="91"/>
+<junction x="226.06" y="93.98"/>
 <pinref part="ACT" gate="G$1" pin="C"/>
-<wire x1="248.92" y1="83.82" x2="248.92" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="83.82" x2="248.92" y2="83.82" width="0.1524" layer="91"/>
-<junction x="238.76" y="83.82"/>
-<label x="248.92" y="83.82" size="0.762" layer="95" xref="yes"/>
+<wire x1="246.38" y1="93.98" x2="246.38" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="93.98" x2="246.38" y2="93.98" width="0.1524" layer="91"/>
+<junction x="236.22" y="93.98"/>
+<label x="246.38" y="93.98" size="0.762" layer="95" xref="yes"/>
 <pinref part="ENABLE_LED_JUMPER" gate="G$1" pin="2"/>
-<wire x1="185.42" y1="83.82" x2="198.12" y2="83.82" width="0.1524" layer="91"/>
-<junction x="198.12" y="83.82"/>
+<wire x1="182.88" y1="93.98" x2="195.58" y2="93.98" width="0.1524" layer="91"/>
+<junction x="195.58" y="93.98"/>
 </segment>
 </net>
 <net name="SGPIO8" class="0">

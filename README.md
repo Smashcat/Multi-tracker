@@ -1,6 +1,6 @@
 # Multi-tracker
 
-##Tracking device dev board with Sigfox, Wifi and GPS functionality
+## Tracking device dev board with Sigfox, Wifi and GPS functionality
 
 This board is designed to allow testing and development of a tracking device using Sigfox, WiFi and GPS location tracking. It also breaks out all useful pins and indicators on both the WSS10R1AT Sigfox module, and the SIM28ML GPS module.
 

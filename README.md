@@ -12,4 +12,4 @@ Gerbers are included, ready to be submitted to JLCPCB or PCBWay (not tested with
 
 3D model render with CAD download can be found [here](https://a360.co/2Z3gr4b)
 
-![Render](./images/tracker-brd-v1.png?raw=true)
+![Render](./images/tracker-brd-v2.png?raw=true)
